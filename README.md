@@ -1,4 +1,4 @@
-![logo](https://github.com/Somuchamp/Somuchamp/blob/main/banner1.png)
+![logo](https://github.com/Somuchamp/Somuchamp/blob/main/somu.png)
 <h1 align="center">Hi 👋, I'm Soumyadeep Das</h1>
 <h3 align="center">A Student and a passionate upcoming Engineer.</h3>
 <h3 align="center"><a href="https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html](https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html">Visit my website here🌐</a></h3>
