@@ -1,7 +1,7 @@
 ![logo](https://github.com/Somuchamp/Somuchamp/blob/main/somu.png)
 <h1 align="center">Hi 👋, I'm Soumyadeep Das</h1>
 <h3 align="center">A Student and a passionate upcoming Engineer.</h3>
-<h3 align="center"><a href="https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html](https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html">Visit my website here🌐</a></h3>
+<h3 align="center"> <a href="https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html](https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html" target="blank"> Visit My Website here 🌐 </a> </h3> 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somuchamp&label=Profile%20views&color=0e75b6&style=flat" alt="somuchamp" /> </p>
