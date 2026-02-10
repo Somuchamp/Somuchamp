@@ -42,7 +42,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJU
 
 - ✉️ Email: **soumyadeepuem2022@gmail.com**
 - 📄 Resume:  
-  👉 https://github.com/Somuchamp/Somuchamp/blob/main/Soumyadeep.pdf
+  👉 https://github.com/Somuchamp/Somuchamp/blob/main/SoumyadeepDas.pdf
 
 ---
 
