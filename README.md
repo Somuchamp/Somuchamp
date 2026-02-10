@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html](https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html)
 
-- 📫 How to reach me *somuchamp2003@gmail.com*
+- 📫 How to reach me *soumyadeepuem2022@gmail.com*
 
 - 📄 Know about my experiences [https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/my%20final%20resume.pdf](https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/my%20final%20resume.pdf)
 
