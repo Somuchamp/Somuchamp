@@ -34,8 +34,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJU
   👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html
 
 - 👨‍💻 All Projects  
-  👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das
-
+  👉 https://github.com/Somuchamp?tab=repositories
 ---
 
 ## 📫 Contact Me
