@@ -34,7 +34,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJU
   👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html
 
 - 👨‍💻 All Projects  
-  👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/index.html
+  👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das
 
 ---
 
@@ -42,7 +42,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJU
 
 - ✉️ Email: **soumyadeepuem2022@gmail.com**
 - 📄 Resume:  
-  👉 https://somuchamp.github.io/Portfolio-Soumyadeep-Das/Port1/my%20final%20resume.pdf
+  👉 https://github.com/Somuchamp/Somuchamp/blob/main/Soumyadeep.pdf
 
 ---
 
