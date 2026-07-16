@@ -5,7 +5,7 @@
 <h3 align="center">Computer Science Engineer | AI • ML • Automation • Full Stack • Cloud</h3>
 
 <h3 align="center">
-  <a href="https://soumyadeep-das-portfolio.netlify.app/" target="_blank">
+  <a href="https://soumyadeep-das-portfolio.vercel.app/" target="_blank">
     🌐 Visit My Portfolio
   </a>
 </h3>
